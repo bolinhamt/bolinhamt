@@ -36,7 +36,7 @@ Atualmente cursando o **2º período** de ADS na **UNICID**. Sou um entusiasta d
 | :--- | :--- | :---: |
 | **💰 BATALHA DE MODELOS** || [Ver Projeto](./batalha de modelos/) |
 
-| **💰 CONTROLE DE FATURAMENTO** | Aplicação desenvolvida em Bubble para gestão de gastos e entradas pessoais. | [Ver Projeto](./projeto-controle-faturamento/) |
+| **💰 CONTROLE DE FATURAMENTO** | Aplicação desenvolvida em Bubble para gestão de gastos e entradas pessoais. | [Ver Projeto](./projeto-controlhe-faturamento/) |
 
 ---
 
