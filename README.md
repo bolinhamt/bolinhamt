@@ -4,7 +4,7 @@
 ---
 
 ### 📫 Contato & Redes Sociais
-[![LinkedIn](https://www.linkedin.com/in/henrique-cardoso-ab4895339/)
+www.linkedin.com/in/henrique-cardoso-ab4895339
 
 
 
