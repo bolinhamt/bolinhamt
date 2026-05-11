@@ -19,11 +19,11 @@ O assistente (Gems) utilizado para modelagem das letras pode ser acessado atrav�
 ## 🎧 Músicas Geradas
 | Faixa | Título | Estilo/Referência | Link do Áudio |
 | :--- | :--- | :--- | :--- |
-| 01 | Gelo derretido| [piseiro | [Arquivo MP3](./audio/musica1.mp3) |
+| 01 | Gelo derretido| piseiro | [Arquivo MP3](./audio/musica1.mp3) |
 | 02 | Oi, sumido | sertanejo| [Arquivo MP3](./audio/musica2.mp3) |
 | 03 | Piserio rebaixado  | pop | [Arquivo MP3](./audio/musica3.mp3) |
 | 04 | status solteiro  | anos 90 | [Arquivo MP3](./audio/musica4.mp3) |
-| 05 | bate no portao | mordern rap | [Arquivo MP3](./audio/musica5.mp3) |
+| 05 | bate no portao | modern rap | [Arquivo MP3](./audio/musica5.mp3) |
  
 ## 📄 Processo de Criação
 1. **Curadoria:** Seleção de 10 letras do artista base.
