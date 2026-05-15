@@ -61,11 +61,9 @@ O projeto foi estruturado utilizando as melhores práticas de desenvolvimento An
 Utilize o QR Code gerado pela **Manus AI** abaixo para visualizar a simulação e testar as interações de interface imediatamente.
 <img width="598" height="532" alt="Captura de tela 2026-05-15 201602" src="https://github.com/user-attachments/assets/3415777b-bd67-490b-90ff-e6464de1538e" />
 
-lt="vip-live-preview-qr" src="https://github.com/user-attachments/assets/b61d9290-9098-4f00-9915-6b4be1385292" />
 
 
 <div align="center">
-  <img width="598" height="532" alt="Captura de tela 2026-05-15 201602" src="https://github.com/user-attachments/assets/f0b9d80c-cd97-49c4-a82c-9d098d32d149" />
 
   <p><i>Escaneie para abrir o app na Manus AI</i></p>
 </div>
