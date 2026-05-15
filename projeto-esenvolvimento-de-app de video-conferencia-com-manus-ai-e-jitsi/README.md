@@ -1,0 +1,68 @@
+<img width="510" height="868" alt="image" src="https://github.com/user-attachments/assets/4c91a75b-8e86-4509-bb1e-6463cbc16dbc" /># VIP Live 📱🛍️
+
+> **Link de Pré-visualização:** [Clique aqui para acessar o protótipo funcional]https://8080-ih10wmnhck79fqf1lex0t-1daa3b9e.us1.manus.computer
+
+---
+
+## 🎯 Proposta de Valor
+
+O **VIP Live** redefine a experiência de compras online ao unir o poder do *Live Commerce* (vendas ao vivo) com a robustez de videoconferências de código aberto via **Jitsi Meet**. 
+
+Diferente de uma chamada de vídeo comum ou de uma live genérica em redes sociais, o VIP Live foi desenhado especificamente para o mercado de moda e vestuário premium. O aplicativo resolve a frieza do e-commerce tradicional e a falta de conversão das lives comuns ao trazer **interatividade direta**: o cliente assiste à vitrine em tempo real, tira dúvidas por voz ou chat e pode adquirir o "Look do Dia" instantaneamente através de uma interface integrada, sem precisar sair da transmissão.
+
+### ⚡ Diferenciais do Projeto
+*   **Integração Nativa Jitsi Meet:** Streaming de vídeo de alta qualidade e baixa latência sem custos abusivos de infraestrutura.
+*   **Overlay de Conversão (Bottom Sheet):** Um botão flutuante permite que o usuário abra os detalhes do produto exibido na tela e clique em "Comprar Agora" durante a transmissão.
+*   **Foco no Nicho (VIP Clothes):** Interface moderna, minimalista e pensada para marcas que buscam exclusividade e engajamento.
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+O projeto foi estruturado utilizando as melhores práticas de desenvolvimento Android moderno:
+
+*   **Linguagem:** Kotlin
+*   **Interface UI:** Jetpack Compose (Design moderno e reativo)
+*   **Videoconferência:** Jitsi Meet Android SDK (Open-source)
+*   **Arquitetura:** MVVM (Model-View-ViewModel)
+*   **Assistência de IA:** Manus AI (Aceleração de código, UI layout e prototipagem)
+
+---
+
+
+## 📸 Capturas de Tela / Demonstração
+
+| Tela de Transmissão (Jitsi) | Recurso "Look do Dia" (Bottom Sheet) |
+| :---: | :---: |
+| <img width="510" height="868" alt="Captura de tela 2026-05-15 202556" src="https://github.com/user-attachments/assets/63a0eade-e80f-4bdd-8f28-0174d2fb31b6" />
+
+
+---
+
+## 🚀 Instruções de Uso e Instalação
+
+### Pré-requisitos
+*   Dispositivo Android rodando Android 5.0 (API 21) ou superior.
+*   Conexão com a internet.
+
+### Como testar
+1.  **Via Dispositivo Móvel:** Escaneie o QR Code na seção abaixo para abrir a simulação diretamente no seu smartphone.
+2.  **Via Repositório (Android Studio):**
+    *   Clone este repositório: `git clone https://github.com/SEU_USUARIO/VIP-Live-Commerce.git`
+    *   Abra o projeto no Android Studio.
+    *   Aguarde a sincronização do Gradle (as dependências do Jitsi SDK serão baixadas automaticamente).
+    *   Execute o app em um emulador ou dispositivo físico.
+
+---
+
+## 🔍 Preview & Instalação Rápida
+
+Utilize o QR Code gerado pela **Manus AI** abaixo para visualizar a simulação e testar as interações de interface imediatamente.
+<img width="636" height="636" a![Uploading Captura de tela 2026-05-15 202556.png…]()
+lt="vip-live-preview-qr" src="https://github.com/user-attachments/assets/b61d9290-9098-4f00-9915-6b4be1385292" />
+
+
+<div align="center">
+  <img src="LINK_DA_IMAGEM_DO_SEU_QR_CODE_AQUI" width="250" alt="QR Code para Teste do VIP Live"/>
+  <p><i>Escaneie para abrir o app na Manus AI</i></p>
+</div>
