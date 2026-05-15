@@ -1,6 +1,6 @@
-<img width="510" height="868" alt="image" src="https://github.com/user-attachments/assets/4c91a75b-8e86-4509-bb1e-6463cbc16dbc" /># VIP Live 📱🛍️
 
-> **Link de Pré-visualização:** [Clique aqui para acessar o protótipo funcional]https://8080-ih10wmnhck79fqf1lex0t-1daa3b9e.us1.manus.computer
+> **Link de Pré-visualização:** [Clique aqui para acessar o protótipo funcional]
+https://8080-ih10wmnhck79fqf1lex0t-1daa3b9e.us1.manus.computer
 
 ---
 
@@ -34,7 +34,8 @@ O projeto foi estruturado utilizando as melhores práticas de desenvolvimento An
 
 | Tela de Transmissão (Jitsi) | Recurso "Look do Dia" (Bottom Sheet) |
 | :---: | :---: |
-| <img width="510" height="868" alt="Captura de tela 2026-05-15 202556" src="https://github.com/user-attachments/assets/63a0eade-e80f-4bdd-8f28-0174d2fb31b6" />
+| <img width="510" height="868" alt="Captura de tela 2026-05-15 202556" src="https://github.com/user-attachments/assets/63a0eade-e80f-4bdd-8f28-0174d2fb31b6" />                                 <img width="527" height="222" alt="image" src="https://github.com/user-attachments/assets/d6fee83b-22b1-473c-b70a-8ae483dbabe1" />
+
 
 
 ---
@@ -58,11 +59,13 @@ O projeto foi estruturado utilizando as melhores práticas de desenvolvimento An
 ## 🔍 Preview & Instalação Rápida
 
 Utilize o QR Code gerado pela **Manus AI** abaixo para visualizar a simulação e testar as interações de interface imediatamente.
-<img width="636" height="636" a![Uploading Captura de tela 2026-05-15 202556.png…]()
+<img width="598" height="532" alt="Captura de tela 2026-05-15 201602" src="https://github.com/user-attachments/assets/3415777b-bd67-490b-90ff-e6464de1538e" />
+
 lt="vip-live-preview-qr" src="https://github.com/user-attachments/assets/b61d9290-9098-4f00-9915-6b4be1385292" />
 
 
 <div align="center">
-  <img src="LINK_DA_IMAGEM_DO_SEU_QR_CODE_AQUI" width="250" alt="QR Code para Teste do VIP Live"/>
+  <img width="598" height="532" alt="Captura de tela 2026-05-15 201602" src="https://github.com/user-attachments/assets/f0b9d80c-cd97-49c4-a82c-9d098d32d149" />
+
   <p><i>Escaneie para abrir o app na Manus AI</i></p>
 </div>
