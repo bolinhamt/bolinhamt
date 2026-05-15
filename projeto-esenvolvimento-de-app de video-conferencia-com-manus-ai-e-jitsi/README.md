@@ -33,7 +33,7 @@ O projeto foi estruturado utilizando as melhores práticas de desenvolvimento An
 ## 📸 Capturas de Tela / Demonstração
 
 | Tela de Transmissão (Jitsi) | Recurso "Look do Dia" (Bottom Sheet) |
-| | <img width="510" height="555" alt="Captura de tela 2026-05-15 202556" src="https://github.com/user-attachments/assets/63a0eade-e80f-4bdd-8f28-0174d2fb31b6" />  |                                   <img width="527" height="222" alt="image" src="https://github.com/user-attachments/assets/d6fee83b-22b1-473c-b70a-8ae483dbabe1" />            
+| | <img width="420" height="555" alt="Captura de tela 2026-05-15 202556" src="https://github.com/user-attachments/assets/63a0eade-e80f-4bdd-8f28-0174d2fb31b6" />  |                                   <img width="527" height="222" alt="image" src="https://github.com/user-attachments/assets/d6fee83b-22b1-473c-b70a-8ae483dbabe1" />            
    
        
 
