@@ -27,9 +27,4 @@ Figura 1: Evolução técnica do clone para MVP+.
 Pré-requisitos
 Navegador moderno
 Acesso ao GitHub e ao AI Studio
-Passos
-Acesse a base do projeto: https://github.com/Gabriel-Assis-Silva/FluxoMD
-Consulte o prompt de apoio: https://aistudio.google.com/app/prompts?state=%7B%22ids%22:%5B%221qhXuhrLjD38kVWi8lPXdm-uekqyPtqdz%22%5D,%22action%22:%22open%22,%22userId%22:%22113772448959645712198%22,%22resourceKeys%22:%7B%7D%7D&usp=sharing
-Reproduza as decisões de priorização e compare os diferenciais implementados.
-Troubleshooting
-Se o link do AI Studio solicitar login, autentique com a conta Google correta e recarregue a página.
+
