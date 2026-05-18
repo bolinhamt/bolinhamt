@@ -36,6 +36,7 @@ Atualmente cursando o **2º período** de ADS na **UNICID**. Sou um entusiasta d
 | :--- | :--- | :---: |
 | **💰 BATALHA DE MODELOS** || [Ver Projeto](./projeto-batalha-de-modelos) |
 | **💰 I.A COMPOSITORA  | Musicas criadas pela I.A|[Ver Projeto](./projeto.musica.ia)
+| **💰 I.A DESENVOLVIMENTO DE APP DE VIDEO CONFERENCIA | [Ver Projeto](./projeto-esenvolvimento-de-app)
 | **💰 CONTROLE DE FATURAMENTO** | Aplicação desenvolvida em Bubble para gestão de gastos e entradas pessoais. | [Ver Projeto](./projeto-controlhe-de-faturamento/) |
 
 ---
